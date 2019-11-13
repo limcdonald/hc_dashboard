@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<subClassOf xmlns="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://semoss.org/ontologies/Concept"/>
+	<IsPrimKey xmlns="http://semoss.org/ontologies/Relation/Contains/" rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</IsPrimKey>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Assigned_ID">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Assigned_ID"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Assigned_ID">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Assigned_ID</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Assigned_ID</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Assigned_To_Active">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Assigned_To_Active"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Assigned_To_Active">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Assigned_To_Active</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Assigned_To_Active</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__COMPLETEDATASET_HCCONFERENCE_UNIQUE_ROW_ID">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__COMPLETEDATASET_HCCONFERENCE_UNIQUE_ROW_ID"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__COMPLETEDATASET_HCCONFERENCE_UNIQUE_ROW_ID">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">COMPLETEDATASET_HCCONFERENCE_UNIQUE_ROW_ID</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">INT</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__COMPLETEDATASET_HCCONFERENCE_UNIQUE_ROW_ID</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__CurrentRole">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__CurrentRole"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__CurrentRole">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">CurrentRole</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__CurrentRole</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Degree">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Degree"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Degree">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Degree</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Degree</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Employee_Active">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Employee_Active"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Employee_Active">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Employee_Active</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Employee_Active</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Employee_Name">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Employee_Name"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Employee_Name">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Employee_Name</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Employee_Name</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__FutureRole">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__FutureRole"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__FutureRole">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">FutureRole</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__FutureRole</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__GOV_CTR">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__GOV_CTR"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__GOV_CTR">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">GOV_CTR</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__GOV_CTR</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Location">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Location"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Location">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Location</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Location</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__PreviousRole">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__PreviousRole"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__PreviousRole">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">PreviousRole</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__PreviousRole</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Active">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Active"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Active">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Project_Active</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Project_Active</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Priority">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Priority"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Priority">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Project_Priority</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Project_Priority</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Role">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Role"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Role">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Role</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Role</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Time_Allocated">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Time_Allocated"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Time_Allocated">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Time_Allocated</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Time_Allocated</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Work_Stream">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Work_Stream"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Work_Stream">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Work_Stream</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Work_Stream</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Agile_Design_Development">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Agile_Design_Development"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Agile_Design_Development">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Agile_Design_Development</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Agile_Design_Development</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Amazon_Web_Services">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Amazon_Web_Services"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Amazon_Web_Services">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Amazon_Web_Services</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Amazon_Web_Services</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Blockchain">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Blockchain"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Blockchain">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Blockchain</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Blockchain</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Business_Process_Requirements_Gathering">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Business_Process_Requirements_Gathering"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Business_Process_Requirements_Gathering">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Business_Process_Requirements_Gathering</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Business_Process_Requirements_Gathering</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Cloud">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Cloud"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Cloud">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Cloud</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Cloud</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Digital_Project_Management">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Digital_Project_Management"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Digital_Project_Management">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Digital_Project_Management</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Digital_Project_Management</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Java">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Java"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Java">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Java</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Java</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Machine_Learning">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Machine_Learning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Machine_Learning">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Machine_Learning</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Machine_Learning</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Microsoft_Office">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Microsoft_Office"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Microsoft_Office">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Microsoft_Office</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Microsoft_Office</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__MySQL">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__MySQL"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__MySQL">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">MySQL</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__MySQL</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Oracle">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Oracle"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Oracle">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Oracle</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Oracle</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Management">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Management"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Project_Management">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Project_Management</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Project_Management</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Python">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Python"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Python">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Python</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Python</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Robotics_Process_Automation">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Robotics_Process_Automation"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Robotics_Process_Automation">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Robotics_Process_Automation</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Robotics_Process_Automation</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__SAP">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__SAP"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__SAP">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">SAP</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__SAP</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__SalesForce">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__SalesForce"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__SalesForce">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">SalesForce</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__SalesForce</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Software_Development_Lifecycle">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Software_Development_Lifecycle"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Software_Development_Lifecycle">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Software_Development_Lifecycle</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Software_Development_Lifecycle</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Tableau">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Tableau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Tableau">
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Tableau</Alias>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">DOUBLE</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Tableau</QueryStructName>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/FRAME423957">
+	<Contains xmlns="http://semoss.org/ontologies/Relation/" rdf:resource="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Projects"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/FRAME423957__Projects">
+	<rdf:type rdf:resource="http://semoss.org/ontologies/Relation/Contains"/>
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">STRING</DatatypeProperty>
+	<QueryStructName xmlns="http://semoss.org/ontologies/Relation/Contains/">UNKNOWN_R:::FRAME423957__Project_Name</QueryStructName>
+	<Alias xmlns="http://semoss.org/ontologies/Relation/Contains/">Projects</Alias>
+</rdf:Description>
+
+</rdf:RDF>
