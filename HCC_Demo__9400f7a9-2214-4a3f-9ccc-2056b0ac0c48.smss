@@ -1,0 +1,12 @@
+Base Properties
+ENGINE	9400f7a9-2214-4a3f-9ccc-2056b0ac0c48
+ENGINE_ALIAS	HCC_Demo
+ENGINE_TYPE	prerna.engine.impl.rdbms.RDBMSNativeEngine
+RDBMS_INSIGHTS	db/@ENGINE@/insights_database
+RDBMS_INSIGHTS_TYPE	H2_DB
+OWL	db/@ENGINE@/HCC_Demo_OWL.OWL
+RDBMS_TYPE	H2_DB
+DRIVER	org.h2.Driver
+USERNAME	sa
+PASSWORD	
+CONNECTION_URL	jdbc:h2:nio:@BaseFolder@/db/@ENGINE@/database;query_timeout=180000;early_filter=true;query_cache_size=24;cache_size=32768
