@@ -1,0 +1,8 @@
+{
+  "layout": "Grid",
+  "rdbmsId": "cea62ddb-03a8-47fd-af26-9ffde08f3c46",
+  "hidden": false,
+  "insightName": "Show first 500 records from COMPLETEDATASET_HCCONFERENCE_2",
+  "recipe": "AddPanel(0);Panel(0)|SetPanelView(\"visualization\");CreateFrame(grid).as([FRAME]);Database(\"9400f7a9-2214-4a3f-9ccc-2056b0ac0c48\") | SelectTable(COMPLETEDATASET_HCCONFERENCE_2) | Limit(500) | Import();Frame() | QueryAll() | AutoTaskOptions(panel\u003d[\"0\"], layout\u003d[\"GRID\"]) | Collect(500);",
+  "engineId": "9400f7a9-2214-4a3f-9ccc-2056b0ac0c48"
+}
